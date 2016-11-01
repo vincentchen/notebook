@@ -7,7 +7,8 @@
 1.[ELKStack中文指南](https://github.com/chenryn/ELKstack-guide-cn)[gitbook](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn)
   [logstash-1-collectd.conf](https://gist.github.com/untergeek/ab85cb86a9bf39f1fc6d)  [collectd插件集合](http://collectd.org/documentation/manpages/collectd.conf.5.shtml)
 ###APP专题
-1.[fastlane自动化构建](https://github.com/vincentchen/fastlane) 
+1.[fastlane自动化构建](https://github.com/vincentchen/fastlane)  
+2.[yasea 音视频推流](https://github.com/begeekmyfriend/yasea)
 ###WEB
 1.[Nginx中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)  
 ###区块链技术
