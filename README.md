@@ -9,4 +9,6 @@
 ###APP专题
 1.[fastlane自动化构建](https://github.com/vincentchen/fastlane) 
 ###WEB
-1.[Nginx中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
+1.[Nginx中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)  
+###区块链技术
+1.[dragonchain](https://github.com/dragonchain/dragonchain)  [chain](https://github.com/chain/chain)  [zcash](https://github.com/zcash/zcash)  [微软](https://github.com/Azure/azure-blockchain-projects)  [hyperledger](https://github.com/hyperledger/hyperledger)  [stellar](https://github.com/stellar/stellar-core)  [openchain](https://github.com/openchain/openchain)
