@@ -5,6 +5,8 @@
 4.[aviator](https://github.com/killme2008/aviator) Java表达式执行引擎  
 5.[jolokia](https://jolokia.org/) 通过http实现jmx监控 [jmxutils](https://github.com/martint/jmxutils) jmx注解  
 6.[嵌入式mysql](https://git.oschina.net/eliyanfei/api_tools)  
+###DevOps
+1.[Ansible中文权威指南](http://www.ansible.com.cn/index.html) [Ansible入门](https://www.gitbook.com/book/ansible-book/ansible-first-book/details)  
 ###大数据 
 1.[ELKStack中文指南](https://github.com/chenryn/ELKstack-guide-cn)[gitbook](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn)
   [logstash-1-collectd.conf](https://gist.github.com/untergeek/ab85cb86a9bf39f1fc6d)  [collectd插件集合](http://collectd.org/documentation/manpages/collectd.conf.5.shtml)
