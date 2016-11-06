@@ -15,7 +15,7 @@
 ###APP专题
 1.[fastlane自动化构建](https://github.com/vincentchen/fastlane)  
 2.[yasea 音视频推流](https://github.com/begeekmyfriend/yasea)  
-3.[RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) [RxJava入门](https://asce1885.gitbooks.io/android-rd-senior-advanced/)  
+3.[RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) [RxJava入门](https://asce1885.gitbooks.io/android-rd-senior-advanced/) [RxDownload多线程下载](https://github.com/vincentchen/RxDownload)   
 ###WEB
 1.[Nginx中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)  
 ###区块链技术
