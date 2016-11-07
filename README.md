@@ -5,6 +5,8 @@
 4.[aviator](https://github.com/killme2008/aviator) Java表达式执行引擎  
 5.[jolokia](https://jolokia.org/) 通过http实现jmx监控 [jmxutils](https://github.com/martint/jmxutils) jmx注解  
 6.[嵌入式mysql](https://git.oschina.net/eliyanfei/api_tools)  
+###JVM
+1.[BTrace](https://github.com/btraceio/btrace) [Btrace入门到熟练小工完全指南](http://calvin1978.blogcn.com/articles/btrace1.html)  [JMC]()
 ###DevOps
 1.[Ansible中文权威指南](http://www.ansible.com.cn/index.html) [Ansible入门](https://www.gitbook.com/book/ansible-book/ansible-first-book/details) 
 2.[open-falcon](https://github.com/open-falcon/of-release) 小米出品的监控系统  
