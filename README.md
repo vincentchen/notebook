@@ -6,6 +6,7 @@
 5.[jolokia](https://jolokia.org/) 通过http实现jmx监控 [jmxutils](https://github.com/martint/jmxutils) jmx注解  
 6.[嵌入式mysql](https://git.oschina.net/eliyanfei/api_tools)  
 7.[apollo](https://github.com/ctripcorp/apollo) 携程出品集中配置中心  
+8.[SeimiCrawler](http://seimi.wanghaomiao.cn/)[github](https://github.com/zhegexiaohuozi/SeimiCrawler) 分布式的爬虫框架  
 ###JVM
 1.[BTrace](https://github.com/btraceio/btrace) [Btrace入门到熟练小工完全指南](http://calvin1978.blogcn.com/articles/btrace1.html)  [JMC]()  
 ###DevOps
