@@ -9,6 +9,7 @@
 8.[SeimiCrawler](http://seimi.wanghaomiao.cn/)[github](https://github.com/zhegexiaohuozi/SeimiCrawler) 分布式的爬虫框架  
 ###Else  
 1.[Rocket.Chat](https://rocket.chat/) Slack群组聊天开源实现，采用NodeJs框架 [Meteor](http://zh.discovermeteor.com/) [github地址](https://github.com/DiscoverMeteor/DiscoverMeteor_zh)实现，相当强大  
+2.[MQTT协议](https://mcxiaoke.gitbooks.io/) http协议的替代品，非常适合Mobile场景  
 ###JVM
 1.[BTrace](https://github.com/btraceio/btrace) [Btrace入门到熟练小工完全指南](http://calvin1978.blogcn.com/articles/btrace1.html)  [JMC]()  
 ###DevOps
@@ -22,6 +23,9 @@
 2.[TSDB](http://liubin.org/blog/2016/02/18/tsdb-intro/) time series database 时序数据库   
 ###DB
 1.[Vitness](http://vitess.io/)youtube出品mysql分库分表中间件   
+2.PostgreSQL专题  PG数据库实在太强大了
+  2.1[春节抢票与PostgreSQL数据库设计思考](https://yq.aliyun.com/articles/66195)  
+  2.2[]()
 ###APP专题
 1.[fastlane自动化构建](https://github.com/vincentchen/fastlane)  
 2.[yasea 音视频推流](https://github.com/begeekmyfriend/yasea)  
@@ -29,4 +33,6 @@
 ###WEB
 1.[Nginx中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)  
 ###区块链技术
-1.[dragonchain](https://github.com/dragonchain/dragonchain)  [chain](https://github.com/chain/chain)  [zcash](https://github.com/zcash/zcash)  [微软](https://github.com/Azure/azure-blockchain-projects)  [hyperledger](https://github.com/hyperledger/hyperledger)  [stellar](https://github.com/stellar/stellar-core)  [openchain](https://github.com/openchain/openchain)
+1.[dragonchain](https://github.com/dragonchain/dragonchain)  [chain](https://github.com/chain/chain)  [zcash](https://github.com/zcash/zcash)  [微软](https://github.com/Azure/azure-blockchain-projects)  [hyperledger](https://github.com/hyperledger/hyperledger)  [stellar](https://github.com/stellar/stellar-core)  [openchain](https://github.com/openchain/openchain)  
+###WebUI  
+1.[element](https://element.eleme.io/) 饿了么开源Vue UI框架 [github](https://github.com/ElemeFE/element)  
