@@ -8,7 +8,7 @@
 7.[apollo](https://github.com/ctripcorp/apollo) 携程出品集中配置中心  
 8.[SeimiCrawler](http://seimi.wanghaomiao.cn/)[github](https://github.com/zhegexiaohuozi/SeimiCrawler) 分布式的爬虫框架  
 ###Else  
-1.[Rocket.Chat](https://rocket.chat/) Slack群组聊天开源实现，采用NodeJs框架 [Meteor](http://zh.discovermeteor.com/) 实现，相当强大  
+1.[Rocket.Chat](https://rocket.chat/) Slack群组聊天开源实现，采用NodeJs框架 [Meteor](http://zh.discovermeteor.com/) [github地址](https://github.com/DiscoverMeteor/DiscoverMeteor_zh)实现，相当强大  
 ###JVM
 1.[BTrace](https://github.com/btraceio/btrace) [Btrace入门到熟练小工完全指南](http://calvin1978.blogcn.com/articles/btrace1.html)  [JMC]()  
 ###DevOps
