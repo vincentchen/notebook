@@ -7,6 +7,7 @@
 6.[嵌入式mysql](https://git.oschina.net/eliyanfei/api_tools)  
 7.[apollo](https://github.com/ctripcorp/apollo) 携程出品集中配置中心  
 8.[SeimiCrawler](http://seimi.wanghaomiao.cn/)[github](https://github.com/zhegexiaohuozi/SeimiCrawler) 分布式的爬虫框架  
+9.[ReactiveX Docs](https://github.com/mcxiaoke/RxDocs)  
 ###Else  
 1.[Rocket.Chat](https://rocket.chat/) Slack群组聊天开源实现，采用NodeJs框架 [Meteor](http://zh.discovermeteor.com/) [github地址](https://github.com/DiscoverMeteor/DiscoverMeteor_zh)实现，相当强大  
 2.[MQTT协议](https://mcxiaoke.gitbooks.io/) http协议的替代品，非常适合Mobile场景  
@@ -25,7 +26,7 @@
 1.[Vitness](http://vitess.io/)youtube出品mysql分库分表中间件   
 2.PostgreSQL专题  PG数据库实在太强大了
   2.1[春节抢票与PostgreSQL数据库设计思考](https://yq.aliyun.com/articles/66195)  
-  2.2[]()
+  2.2[中文手册](https://github.com/postgres-cn/pgdoc-cn)
 ###APP专题
 1.[fastlane自动化构建](https://github.com/vincentchen/fastlane)  
 2.[yasea 音视频推流](https://github.com/begeekmyfriend/yasea)  
