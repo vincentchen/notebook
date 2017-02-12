@@ -11,6 +11,8 @@
 ###Else  
 1.[Rocket.Chat](https://rocket.chat/) Slack群组聊天开源实现，采用NodeJs框架 [Meteor](http://zh.discovermeteor.com/) [github地址](https://github.com/DiscoverMeteor/DiscoverMeteor_zh)实现，相当强大  
 2.[MQTT协议](https://mcxiaoke.gitbooks.io/) http协议的替代品，非常适合Mobile场景  
+3.[HTML2MarkDown](https://github.com/breakdance/breakdance) [MarkDown2HTML](https://github.com/jonschlinkert/remarkable)  
+4.[wekan](https://github.com/wekan/wekan) Trello的开源实现，项目管理  
 ###JVM
 1.[BTrace](https://github.com/btraceio/btrace) [Btrace入门到熟练小工完全指南](http://calvin1978.blogcn.com/articles/btrace1.html)  [JMC]()  
 ###DevOps
